@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Full Stack Developer
 ----------------------
 
-I started my learning with HTML, CSS, JavaScript, Typescript, React, React native, and later found the backend part interesting where I use Node.js, Express.js and MongoDb . The ambition is to continue learning to sharpen my skills.
+I started my learning with HTML, CSS, JavaScript, Typescript, React, React native, and later found the backend part interesting where I use Python, Node.js, Express.js and MongoDb . The ambition is to continue learning to sharpen my skills.
 
 # 💫 About Me:
 🌍  I'm based in Eldoret, Kenya<br>✉️  You can contact me at victoraseko2004@gmail.com<br>🧠  I'm learning Angular<br>🤝  I'm open to collaborating on Projects<br>⚡  I love cooking...😍but don't tell anyone
