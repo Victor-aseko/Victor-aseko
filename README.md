@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Victor Aseko
 ====================================================================================================================================
 
-A Full Stack Developer
+A Full Stack Software Developer
 ----------------------
 
 I started my learning with HTML, CSS, JavaScript, Typescript, React, React native, and later found the backend part interesting where I use Python, Node.js, Express.js, C#, SQL Server, MySQL, and MongoDb . The ambition is to continue learning to sharpen my skills.
